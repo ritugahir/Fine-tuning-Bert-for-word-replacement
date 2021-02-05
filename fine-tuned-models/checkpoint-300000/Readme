@@ -1,0 +1,11 @@
+The folder contains the configuration of trained model at checkpoint of 300000 runs:
+1. config.json
+2. pytorch_model.bin
+3. tokenizer_config.json
+4. special_tokens_map.json
+5. vocab.txt
+6. training_args.bin
+7. optimizer.pt
+8. scheduler.pt
+9. trainer_state.json
+10. vocab.gdoc
